@@ -19,7 +19,7 @@ LibreNMS has a whole list of Widgets to select from.
   yellow for warning (device has been restarted in last 24 hours),red
   for down. You can also list all services and ignored/disabled
   devcies in this widget.
-- Componet Status: List all componets Ok state, Warning state, Critical state.
+- Component Status: List all components Ok state, Warning state, Critical state.
 - Device Summary horizontal: List device totals, up, down, ignored,
   disabled. Same for ports and services.
 - Device Summary vertical: List device totals, up, down, ignored,
